@@ -6,7 +6,8 @@ public class nimei {
 		// TODO Auto-generated method stub
 		System.out.println("222222222");
 		System.out.println("21111");
-  System.out.println("333");
+		System.out.println("333");
+		System.out.println("444");
 	}
 
 }
